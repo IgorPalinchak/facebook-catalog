@@ -1,0 +1,14 @@
+{
+  "name": "igor",
+  "license": "1.2",
+  "authors": [
+    {
+      "name": "igor",
+      "email": "andry@corp.gm"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "facebook/php-ads-sdk": "2.11.*"
+  }
+}
